@@ -1,2 +1,2 @@
-android_project
+android_project(not lastFM project)
 ===============
